@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+✨ Research Scientist at Imperial College developing software in the neuroimaging domain ✨
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I graduated from University of Birmingham in 2021 with a MSc in CS. Seeking software/machine learning engineer roles and have experience with Python 3, Machine Learning, Java, SQL, Linux and Bash. Experience with full-stack software engineering projects alongside machine learning research projects.
 
-What else do you need?
+Most recently, I developed a series of convolutional neural networks to detect Alzheimer's Disease from MRI images with 70% accuracy.
 
-### My story
+My interests are broadly in software engineering, machine learning and neuroscience.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### contact
+
+Feel free to reach out to me via [email](mailto:ben_fleming@icloud.com).
